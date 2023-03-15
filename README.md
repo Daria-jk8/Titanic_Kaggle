@@ -23,7 +23,7 @@ CONTENT:
 4. Perform a data cleanup as needed. Identify the set of traits that you think most influence human survival.
 5. Train a linear regression on train.csv on these features. For classification using linear regression
    - 5.1 Analyze the output of the model, namely, calculate the metrics of the classification task for test.csv. 
-   - 5.2 Compare with metrics for train.csv(?)
+   - 5.2 Compare with metrics for train.csv
 
 **The following metrics are of interest:**
 - Accuracy
@@ -33,8 +33,8 @@ CONTENT:
 - ROC
 - AUC
 - Confusion Matrix 
-6. Improve your performance by training logistic regression.(?)
+6. Improve your performance by training logistic regression.
 
   
-
+> <img  src="lin_log.png">
 
