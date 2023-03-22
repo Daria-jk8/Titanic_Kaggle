@@ -1,4 +1,4 @@
-<img src="p.jpeg">
+![titanic](https://miro.medium.com/v2/resize:fit:1400/1*YeYHrQ9a-i5b61LC6FxYIw.jpeg)
 
 # Titanic - Machine Learning from Disaster
  - source: https://www.kaggle.com/competitions/titanic/overview
