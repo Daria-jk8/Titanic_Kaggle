@@ -1,7 +1,7 @@
 <img src="p.jpeg">
 
 # Titanic - Machine Learning from Disaster
- - source:https://www.kaggle.com/competitions/titanic/overview
+ - source: https://www.kaggle.com/competitions/titanic/overview
 
  
 ## **The procedure for developing a machine learning project**
